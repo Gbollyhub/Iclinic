@@ -1,4 +1,4 @@
-# iclinic
+# Iclinic
 
 ## Project setup
 ```
